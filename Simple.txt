@@ -1,1 +1,2 @@
 Hello this is Simple text file
+New change added in master
